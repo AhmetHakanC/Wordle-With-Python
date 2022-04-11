@@ -3,7 +3,7 @@ from termcolor import colored
 
 rakamlar1 = [1, 2, 3, 4, 5, 6, 7, 8, 9]
 dogru = []
-rastgele_kelime = ["BADEM", "SELAM", "NABER", "ARABA", "KARAR", "LAMBA", "SEHPA"]
+rastgele_kelime = ["BADEM", "SELAM", "NABER", "ARABA", "KARAR", "LAMBA", "SEHPA"] #Ben isteğe bağlı kelimelerin eklenebileceği şekilde yaptım istenirse internetten de veri çekilebilir.
 oyun = ["*", "*", "*", "*", "*"]
 kontrol = ["*", "*", "*", "*", "*"]
 
